@@ -1,0 +1,2 @@
+alias ll='ls -l -a'
+alias data='cd /Volumes/Data'
