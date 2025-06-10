@@ -1,2 +1,8 @@
 alias ll='ls -l -a'
 alias data='cd /Volumes/Data'
+
+# export GOENV_ROOT="$HOME/.goenv"
+# export PATH="$GOROOT/bin:$PATH"
+# export PATH="$PATH:$GOPATH/bin"
+
+# eval "$(goenv init -)"

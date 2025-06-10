@@ -82,11 +82,12 @@ plugins=(
 	httpie # http pie plugin
 	kubectl # kubectl plugin
 	rsync # rsync plugin
+	httpie
+	web-search
 	ssh
 	sudo # add sudo prefix by pressing "esc" twice
 	terraform
 	zsh-autosuggestions # zsh autosuggestions
-	zsh-syntax-highlighting # zsh syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh
